@@ -1,0 +1,26 @@
+.radiobutton-group>label>input[type="radio"] {
+    vertical-align: middle;
+}
+
+.radiobutton-group>label>input[type="radio"]:not(:checked) {
+    position: absolute;
+    left: -9999em;
+}
+
+.radiobutton-group>label {
+    padding: .25em .5em;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+    margin-right: 0.5px;
+    margin-left: 0.5px;
+    color: #000000;
+    background-color: #a1a4aea1;
+}
+
+.radiobutton-group>label:first-of-type {
+    border-radius: .7em 0 0 .7em;
+}
+
+.radiobutton-group>label:last-of-type {
+    border-radius: 0 .7em .7em 0;
+}

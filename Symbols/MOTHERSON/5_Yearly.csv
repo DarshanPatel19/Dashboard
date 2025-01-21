@@ -1,0 +1,3 @@
+Date,Ticker,Open,High,Low,Close,Volume,OpenInterest,Weekday,EvenYear,ReturnPoints,ReturnPercentage,PositiveYear
+2022-01-01,MOTHERSON,96.17,96.17,61.8,74.15,2265655731,0,Saturday,True,,,False
+2023-01-01,MOTHERSON,74.3,84.25,61.8,73.4,1379771458,0,Sunday,False,-0.75,-1.01,False

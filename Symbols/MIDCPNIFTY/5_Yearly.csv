@@ -1,0 +1,4 @@
+Date,Ticker,Open,High,Low,Close,Volume,OpenInterest,Weekday,EvenYear,ReturnPoints,ReturnPercentage,PositiveYear
+2022-01-01,MIDCPNIFTY,7688.85,7996.3,6054.2,7180.95,0,0,Saturday,True,,,False
+2023-01-01,MIDCPNIFTY,7208.35,10406.8,6595.95,10397.55,0,0,Sunday,False,3216.5999999999995,44.79,True
+2024-01-01,MIDCPNIFTY,10425.5,11063.95,10176.7,10981.05,0,0,Monday,True,583.5,5.61,True

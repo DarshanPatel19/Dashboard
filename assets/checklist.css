@@ -1,0 +1,28 @@
+.checklist_group {
+    display: flex;
+    position: absolute;
+    vertical-align: middle;
+}
+
+.checklist_input {
+    cursor: pointer;
+}
+
+.checklist_label {
+    color: rgb(0, 0, 0);
+    background-color: #a1a4aea1;
+    padding: .25em .5em;
+    border: 1px solid #ffffff;
+    margin-right: 0.5px;
+    margin-left: 0.5px;
+}
+
+.checklist_label:first-of-type {
+    color: rgb(0, 0, 0);
+    border-radius: .7em 0 0 .7em;
+}
+
+.checklist_label:last-of-type {
+    color: rgb(0, 0, 0);
+    border-radius: 0 .7em .7em 0;
+}

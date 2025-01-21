@@ -1,0 +1,21 @@
+.rc-slider-track {
+    background-color: deepskyblue;
+}
+
+.rc-slider-dot-active {
+    border-color: deepskyblue;
+    border: solid 2px deepskyblue;
+}
+
+.rc-slider-handle {
+    background-color: deepskyblue;
+    border-color: deepskyblue;
+}
+
+.rc-slider-handle:hover {
+    border-color: deepskyblue;
+}
+
+.rc-slider-handle-active:active {
+    border-color: deepskyblue;
+}
